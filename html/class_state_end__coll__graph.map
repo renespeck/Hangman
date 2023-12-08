@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$class_singleton.html" title="Singleton\&lt; StateEnd \&gt;" alt="" coords="5,193,157,221"/>
+<area shape="rect" id="node2" href="$class_state.html" title="abstract state." alt="" coords="105,6,156,34"/>
+<area shape="rect" id="node4" href="$class_game_context.html" title="concrete game algorithm." alt="" coords="143,99,244,127"/>
+<area shape="rect" id="node6" href="$class_game.html" title="abstract algorithm controls the game" alt="" coords="260,6,316,34"/>
+</map>

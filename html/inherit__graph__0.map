@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_game.html" title="abstract algorithm controls the game" alt="" coords="5,5,61,33"/>
+<area shape="rect" id="node3" href="$class_game_context.html" title="concrete game algorithm." alt="" coords="109,5,211,33"/>
+</map>

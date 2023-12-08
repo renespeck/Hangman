@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game.html#a461460c2f0ce7f83467ab2786408a92b" title="Game::run" alt="" coords="104,81,187,109"/>
+<area shape="rect" id="node5" href="$class_game.html#a36a97fb0958e53aaa007e5c6a34a021d" title="Game::doInit" alt="" coords="264,5,360,33"/>
+<area shape="rect" id="node7" href="$class_game.html#a06f0a79735d846584a9821ec983b5bb2" title="Game::doLoop" alt="" coords="259,55,365,83"/>
+<area shape="rect" id="node9" href="$class_game.html#ac0c92a8f4e5af919bdb166b4586f7228" title="Game::doPostProcess" alt="" coords="236,106,388,134"/>
+<area shape="rect" id="node11" href="$class_game.html#a53514542ab4f5f4f31974eeb8f9c2e46" title="Game::doPreProcess" alt="" coords="239,157,385,185"/>
+</map>
